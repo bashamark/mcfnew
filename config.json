@@ -1,11 +1,11 @@
 {
   "radio": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "World",
-      "radio_url": "http://86.107.235.38:9000/smartnroll",
-      "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
-      "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
+      "radio_name": "EMC Radio",
+      "radio_genre": "The Voice of Abundance",
+      "radio_url": "https://c22.radioboss.fm:18040/stream",
+      "radio_image_url": "https://i.ibb.co/p6K8Cpm1/emc-logo.jpg",
+      "background_image_url": "https://i.ibb.co/w7qCG2d/mcfback.jpg",
       "blur_radio_background": "true",
       "song_metadata": "true",
       "image_album_art": "true",
