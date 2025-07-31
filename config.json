@@ -57,22 +57,22 @@
     {
       "social_name": "Website",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://solodroid.net?target=internal"
+      "social_url": "https://edenmiracleministries.org/"
     },
     {
       "social_name": "Facebook",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://facebook.com/solodroid.net?target=custom-tabs"
+      "social_url": "https://www.facebook.com/edenmcm"
     },
     {
-      "social_name": "Twitter",
+      "social_name": "Youtube",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev?target=custom-tabs"
+      "social_url": "https://www.youtube.com/c/EDENMIRACLEMINISTRIES"
     },
     {
-      "social_name": "Instagram",
+      "social_name": "Join Whatsapp Group",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs"
+      "social_url": "https://www.youtube.com/c/EDENMIRACLEMINISTRIES"
     }
   ]
 }
