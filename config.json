@@ -1,22 +1,8 @@
 {
   "radio": [
     {
-      "stream_id": "mcf_main",
-      "radio_name": "MCF 98.7FM",
+      "radio_name": "EMC Radio",
       "radio_genre": "The Voice of Abundance",
-      "radio_url": "http://84.8.135.255/listen/mcf_casterfm/radio.mp3",
-      "radio_image_url": "https://i.ibb.co/p6K8Cpm1/emc-logo.jpg",
-      "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
-      "blur_radio_background": "true",
-      "song_metadata": "true",
-      "image_album_art": "false",
-      "image_album_art_dynamic_background": "true",
-      "auto_play": "true"
-    },
-    {
-      "stream_id": "mcf_data_saver",
-      "radio_name": "MCF Data Saver (AAC+)",
-      "radio_genre": "The Voice of Abundance - Data Saver",
       "radio_url": "https://c22.radioboss.fm:18040/stream",
       "radio_image_url": "https://i.ibb.co/p6K8Cpm1/emc-logo.jpg",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
@@ -24,7 +10,7 @@
       "song_metadata": "true",
       "image_album_art": "false",
       "image_album_art_dynamic_background": "true",
-      "auto_play": "false"
+      "auto_play": "true"
     }
   ],
   "settings": [
