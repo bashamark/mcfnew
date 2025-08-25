@@ -67,10 +67,30 @@
   ],
   "socials": [
     {
-      "social_name": "Website",
+      "social_name": "Eden Website",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
       "social_url": "https://edenmiracleministries.org/"
     },
+
+     {
+      "social_name": "Tithe and Offerings",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_url": "https://edenmiracleministries.org/emc-giving/"
+    },
+
+      {
+      "social_name": "Enquiries",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_url": "https://edenmiracleministries.org/emc-enquiries/"
+    },
+
+    {
+      "social_name": "Eden Church Programme",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_url": "https://edenmiracleministries.org/emc-services/"
+    },
+
+  
     {
       "social_name": "Eden Facebook",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
@@ -81,6 +101,13 @@
       "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
       "social_url": "https://www.youtube.com/c/EDENMIRACLEMINISTRIES"
     },
+
+     {
+      "social_name": "Resources",
+      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
+      "social_url": "https://edenmiracleministries.org/resources/"
+    },
+    
     {
       "social_name": "Join Whatsapp Group",
       "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
