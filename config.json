@@ -74,19 +74,19 @@
 
      {
       "social_name": "Tithe and Offerings",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_icon": "https://i.ibb.co/WpPSK1RJ/donation.png",
       "social_url": "https://edenmiracleministries.org/emc-giving/"
     },
 
       {
       "social_name": "Enquiries",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_icon": "https://i.ibb.co/YFfm1vrL/email-1.png",
       "social_url": "https://edenmiracleministries.org/emc-enquiries/"
     },
 
     {
       "social_name": "Eden Church Programme",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_icon": "https://i.ibb.co/hxFktZ8v/schedule.png",
       "social_url": "https://edenmiracleministries.org/emc-services/"
     },
 
@@ -104,14 +104,14 @@
 
      {
       "social_name": "Resources",
-      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
+      "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
       "social_url": "https://edenmiracleministries.org/resources/"
     },
     
     {
       "social_name": "Join Whatsapp Group",
       "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
-      "social_url": "https://www.youtube.com/c/EDENMIRACLEMINISTRIES"
+      "social_url": "https://api.whatsapp.com/send?phone=256701573278&text=Hi!%20You%20Have%20Reached%20Eden%20Miracle%20Ministries%20WhatsApp%20Page%2C%20You%20can%20request%20to%20Join%20a%20group%20or%20Enquire!"
     }
   ]
 }
