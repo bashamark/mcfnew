@@ -1,8 +1,8 @@
 {
   "radio": [
     {
-      "radio_name": "MCF Radio ",
-      "radio_genre": "food for your Soul",
+      "radio_name": "EMC Radio ",
+      "radio_genre": "The Voice of Abundance",
       "radio_url": "https://c22.radioboss.fm:18040/stream",
       "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
@@ -13,9 +13,9 @@
       "auto_play": "true"
     },
     {
-      "radio_name": "MCF 98.7FM ",
-      "radio_genre": "Food for your soul",
-      "radio_url": "http://84.8.135.255/listen/mcf_casterfm/radio.mp3",
+      "radio_name": "EMC Radio ",
+      "radio_genre": "The Voice of Abundance",
+      "radio_url": "https://c22.radioboss.fm:18040/stream",
       "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
       "blur_radio_background": "true",
