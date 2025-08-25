@@ -35,7 +35,7 @@
   ],
   "ads": [
     {
-      "ad_status": "1",
+      "ad_status": "0",
       "ad_type": "admob",
       "backup_ads": "none",
       "admob_publisher_id": "pub-3940256099942544",
@@ -65,7 +65,7 @@
       "interstitial_ad_interval": 2
     }
   ],
-  "socials": [
+  "Eden socials": [
     {
       "social_name": "Website",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
